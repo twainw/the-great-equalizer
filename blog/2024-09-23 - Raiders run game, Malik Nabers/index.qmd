@@ -1,0 +1,72 @@
+---
+title: Raiders run game, Malik Nabers, and much more
+date: '2024-09-24'
+summary: "'Don’t talk about – playoffs?! You kiddin’ me? Playoffs?! I just hope we can win a game!'"
+---
+
+## Raiders running game hits rock bottom
+
+The Raiders this season are averaging **-0.61 EPA per run**, ranking 32nd in the NFL and showing no signs of improvement. Per Next Gen Stats, they rank **32nd in yards per carry (2.8), 31st in explosive (10+ yard) run % (3.6%), and have picked up just five first downs.** Their overall run success rate of *20%* is dead last in the NFL per RBSDM.com. 
+
+![](raiders_rush_offense.png)
+
+With a below-average passing efficiency, the Raiders hope that a marginal improvement in their ability to run the ball will help them win games. Head Coach Antonio Pierce [expressed frustration and](https://www.si.com/nfl/raiders/news/raiders-ap-frustrated-with-rushing-attack-in-sunday-s-loss) and dissatisfaction with the scheme after losing to the 25th best run defense of the Carolina Panthers, in which they averaged **-0.51 EPA per run** (worst performance of week 3). Coming into the season, the Raiders hoped to depend on multiple running backs to be productive at a cheaper total cost than what they would have paid Josh Jacobs. For the next several weeks, I expect the Raiders to try out different types of runs, personnel packages, offensive line combinations, and running back rotations. Perhaps it will raise their floor, but it is difficult to imagine the run game being worse.
+
+## Malik Nabers is awesome
+
+Malik Nabers, a rookie wide receiver, is currently leading the league in target share at **37.8%**. Among receivers with at least **20 targets,** per Next Gen Stats he is **5th in total receiving yards (271), 10th in YAC per reception (5.8), 5th in EPA per target**, and scored three touchdowns. His week 3 performance against the Cleveland Browns is an excellent example of what makes him a dynamic receiver.
+
+![](nabers_tgt_share.png)
+
+{{< video https://www.youtube.com/watch?v=nxkCUnIHlyk >}}
+
+In the clip above against press-man, Nabers uses a *skip-go* to break the press, but the cornerback mirrors him well. And the corner stays on the route even after Nabers tries a stutter step. But he still makes a spectacular leaping catch and gets both feet down for a 28-yard gain.
+
+{{< video https://www.youtube.com/watch?v=S5NxDDC8xL4 >}}
+
+On the same drive three plays later, Nabers motions to the left side of the formation and is one-on-one again. He again gets open at the catch point and makes a leaping catch for the touchdown against the corner trying hard to catch-up. These clips are great examples of his body control on the sideline and ability to make difficult catches.
+
+{{< video https://www.youtube.com/watch?v=9jn0edEExUA >}}
+
+With 32 seconds left in the half and one timeout, the Giants are up a touchdown and looking to extend their lead. Against another one-on-one, 
+Nabers runs a slant and gets open for a 12-yard gain and a first down. Although I do not know for sure, Nabers probably knew his best option was to run to the boundary after the catch to get out of bounds and the Giants' last timeout.
+
+{{< video https://www.youtube.com/watch?v=4mOAk2UIAIU >}}
+
+On the above play, the Giants motion another wide receiver (#17) before the snap to a slant-flat concept. The Browns' safety probably expected an out route, but Nabers runs a slant and is wide open for the touchdown after the linebacker (#6) moves out of the throwing window.
+
+{{< video https://www.youtube.com/watch?v=2DM9xsqP0PQ >}}
+
+Making big plays off of slot fades was his specialty at LSU. In the clip above, he beats the press off of a good release and gets open down the field. If Daniel Jones threw a better ball, Nabers would have had an even more productive game.
+
+In fairness, it is only week 3, and it will be tough for anyone to sustain a 37.8% target share for an entire season. Davante Adams was last year's leader in target share was 33%. However, it is exciting to see a promising rookie wide receiver thrive, and there is no reason why the Giants should not target him double-digit times in every single game. Nabers is a star in the making.
+
+## More things NFL
+
+### The Vikings have one of the best defenses 
+
+Having multiple defenders with experience in his system, DC Brian Flores can run complex coverages and create pressure on the opposing QBs. As a result, they allow offenses to score on just **18.8%** of their drives, the best in the NFL as of week 3. 
+
+{{< tweet user=SyedSchemes id=1702731418218971629 >}}
+
+### Javon Hargrave partially tore his triceps against the L.A. Rams and will be out for the season
+
+Injuries keep piling up for the San Francisco 49ers. It is hard to imagine this team making a deep playoff run with a thin defensive line and an injured roster. Many of their players are also dealing with personal tragedies. I also have doubts about the 49ers' offensive line playing well. Not to mention the frustratingly poor loss against the Rams. I think I prefer not to talk about the 49ers this season.
+
+### Matt LaFleur continues finding success in the post-Rodgers era
+
+After Jordan Love's week 1 injury, Matt LaFleur had plenty of reason to worry about winning games in Love's absence. And yet, he is 2-0 with Malik Willis. LaFleur continues to show why he is one of the best coaches in the league. 
+
+{{< tweet user=SyedSchemes id=1838003615044096401 >}}
+
+### Bengals' defense is a tragedy
+
+Despite their offense playing the best game of the season, the Bengals lost. Despite averaging 0.41 EPA/play on offense, the Bengals lost. For context, Mahomes in 2022 averaged 0.302 EPA/play. They are also 0-3. It seems the Bengals' plan on defense this season is "Trey Hendrickson, go do something!" Their defensive draft picks have yet to help this unit turn around its fortunes, and I do not know if they will find the players via in-season trades. It is unlikely the Bengals make the playoffs.
+
+![](commanders.png)
+
+### Chiefs are very good. They will be fine. They are likely winning the Super Bowl.
+
+### Josh Allen
+
+{{< tweet user=MySportsUpdate id=1838382426344591643 >}}

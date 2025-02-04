@@ -1,0 +1,26 @@
+# Date format
+date-format: "long"
+
+# Enable banner style title blocks
+title-block-banner: "#000000"
+
+# Add blog-post class to the banner header area
+format: 
+  html:
+    css: blog.css
+    knitr:
+      opts_chunk:
+        dev: png
+        dev.args:
+          bg: transparent
+
+# Default for table of contents
+toc: true
+toc-title: CONTENTS
+toc-location: left
+
+freeze: true
+
+# Default author
+author:
+  - name: I.W. Twain

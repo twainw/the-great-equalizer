@@ -1,0 +1,37 @@
+---
+title: Scoring in the NFL is down... for now
+date: '2024-06-20'
+summary: "They said they don’t want me back … I swear"
+---
+
+## Points have been harder to come by for NFL offenses since COVID
+
+The 2023 season was marked by struggles to score points for NFL offenses. Scoring has decreased in the last three seasons, particularly since 2020 when offenses routinely scored touchdowns. At the end of 2010, many teams like the Chiefs, Bills, Ravens, Rams, 49ers, Bengals, and Packers invested in their offense to turn their fortunes around and win a Super Bowl. As a result, NFL offenses reached a point in 2020 where they felt unstoppable, averaging **0.10 EPA per pass** and **23 points per game**. But then, defenses responded.
+
+Offenses last year averaged just **0.028 EPA per pass** and a -0.017 EPA per play, the lowest ever since 2018. Even standard counting stats are stark. Offenses last year averaged a **55% red zone %,** compared to 59% in 2020 and only **1.88 points per drive**, a noticeable decrease from over 2 points per drive seen consistently between 2018 and 2021. Only **36% of drives** are ending in a score compared to **40%** in 2020.
+
+![](scoring.png)
+
+### Quarterbacks are younger now
+
+![](qb_exp_over_time.png)
+
+A recent influx of young quarterbacks and veterans retiring resulted in **20** quarterbacks with less than five years of experience playing last year. Matthew Stafford was the only starting quarterback with 13 or more years of experience to log more than 300 plays—a stark contrast from 2020 when the league had **6**. Other veterans were either injured or benched:
+
+-   [***Injured***]{.underline}: Trevor Lawrence, Aaron Rodgers, Joe Burrow, Justin Herbert, Kirk Cousins, Geno Smith, and Jalen Hurts.
+
+-   [***Benched***]{.underline}: Jimmy Garoppolo, Russell Wilson, Ryan Tannehill.
+
+-   [***Retired***]{.underline}: Drew Brees, Tom Brady, Matt Ryan, Phillip Rivers, Ben Roethlisberger, Andrew Luck , Alex Smith
+
+Experience matters because young quarterbacks need time to learn an NFL offense, how to adjust pass protection, how to read defenses, how to attack throwing windows in the NFL that close faster than what they are used to, and get through the grind of a season. But, more and more young quarterbacks are under pressure to turn around struggling franchises in a short time, most of them with little help. And unsurprisingly, young quarterbacks struggled in 2023 compared to the veterans.
+
+![The 5-8 YRS group includes P.Mahomes, J.Allen, L.Jackson, D.Prescott, J.Goff, and B.Mayfield. The 13+ YRS group includes only M.Stafford](exp_table.png)
+
+### Defenses have also found schematic answers.
+
+Knowing they need to disrupt the pass, NFL teams have allocated over **13% of their salary cap to the defensive line,** per Spotrac. **[12 of the 14](https://www.nfl.com/news/next-gen-stats-how-defensive-pressure-defined-the-2023-nfl-season) playoff teams** in 2023 ranked in the top half of the league in pressure %, particularly excelling in creating quick pressures under 2.5 seconds. Consequently, offensive line injuries become more detrimental to an offense, especially if the quarterback cannot beat the pass rush with quick decisions or playmaking.
+
+Specific examples of elite defensive play include the Ravens in week 7 against the Lions or in week 16 when they [destroyed the 49ers' death star offense](https://www.theringer.com/2023/12/26/nfl/nfl-week-16-ravens-49ers-brock-purdy-dolphins). Against a porous 49ers offensive line, the Ravens forced hurried throws, misses, deflections, and did not allow the 49ers' playmakers to create yards after the catch. Super Bowl 58 is another example in which the Chiefs deployed [disguised pressures](https://www.nfl.com/news/greatest-nfl-defensive-coordinator-of-all-time-chiefs-steve-spagnuolo-presents-compelling-case) and **blitzed on a season-high 52.4%** of dropbacks en-route to a super bowl win. From Myles Garrett doing crossovers to the Dallas Cowboys getting humbled by the Bills, 2023 had many examples of teams turning pressure into a game-changing advantage.
+
+Scoring may never reach the peak of 2020, but **offenses will adapt** and present new problems for defenses to solve. In fairness, offenses have delivered several high-scoring games in the last three postseasons. Innovation is paramount. NFL coaches often copy new ideas from others, and good coaches mold those ideas for their schemes and players. But for now, defenses are winning. Let's see next season what answers offenses have to put themselves ahead again.

@@ -1,0 +1,24 @@
+---
+title: "About"
+image: headshot.jpeg 
+toc: false 
+about: 
+  template: jolla 
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - icon: twitter
+      text: BlueSky
+      href: https://bsky.app/profile/twainw.bsky.social
+    - icon: github
+      text: GitHub
+      href: https://github.com/twainw
+format:
+  html:
+    link-external-newwindow: true
+---
+
+I fell in love with R and data science in my undergrad, using R and RStudio to wrangle, analyze, model, and visualize my data. Over the years, I've become passionate about learning by doing, especially telling visual stories with data. I'm hoping to use this blog to foster my curiosity.
+
+This blog is for my love for football but will occasionally write about other things (idk what just yet). I enjoy learning about the sport, and want to answer my questions using bite-sized visual stories with data. I hope that you enjoy reading every post and they add to your current love for the game.
+
