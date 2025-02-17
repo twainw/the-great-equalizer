@@ -1,0 +1,107 @@
+---
+title: Super Bowl 59 Recap
+subtitle: How the Eagles crushed the Chiefs’ three-peat hopes
+date: '2025-02-14'
+summary: "'no man is an island,' you must draw your strength from others"
+---
+
+## Introduction
+
+Considering the different ways Super Bowl 59 could have gone, I did not expect the Eagles to dominate the Kansas City Chiefs. Even though the Eagles had a better roster, I still expected this to be a competitive game b/c of Patrick Mahomes and Andy Reid. Only after the game did I realize that my expectation was a stretch... a figment of my imagination. 
+
+Do not let the 18-point margin of victory fool you. The Eagles dismantled the Chiefs. This was a 40-6 game. The Chiefs only scored their remaining 16 pts after the Eagles replaced their defensive starters with backups. In the first half of this game, the Chiefs had just 23 total yards and one first down as Mahomes averaged **-1.3 EPA/pass** per NGS. He **finished the game with a -0.46 EPA/dropback and three turnovers.
+
+To his credit, this game was Vic Fangio's magnum opus. For a long time, he has been one of the most influential coaches around the league but did not have his signature moment like his peers Steve Spagnuolo or Bill Belichick. I remember [back in 2019](https://www.espn.com/nfl/story/_/id/27447121/mcvay-shanahan-lafleur-qbs-playbooks-learning-dc) when Sean McVay, Kyle Shanahan, and Matt LaFleur were all asked which coach's defense is the most difficult to read and attack. And they all answered: Vic Fangio. With 33 years of NFL experience, and despite some failed stops in Denver and Miami, Fangio's [defensive philosophy](https://www.readoptional.com/p/the-book-of-fangio-part-i-the-philosophy) has allowed teams to have answers against high-powered offenses. For instance, he built the blueprint to stopping McVay's offense in a 2018 regular season game, a plan heavily used by the Patriots in that season's Super Bowl to hold the Rams to just three points. But now, he has one of the best defensive coaching jobs we have seen in the Super Bowl against one of the greatest HC-QB duos ever. 
+
+Two other members of the Eagles organization that I think deserve a lot of credit for this Super Bowl are Head Coach Nick Sirriani and General Manager Howie Roseman. Last year, the Eagles lost five of their last six games and got embarrassed in the playoffs. However, Sirriani figured out a way to lead his team despite an off-season of speculation on whether or not he should be fired. Very few General Managers in the NFL understand how to acquire talent and draft value better than Howie Roseman, who has won two Super Bowls in 7 years with two different head coaches and two different quarterbacks. How he manages the cap, leverages analytics, and manages to add stars on the Eagles the last few years has been unlike anything I have seen.  
+
+## Eagles' success on defense
+
+This game had great examples of the Eagles' ability to marry their coverage call with their pass rush and not allow the Chiefs to find success in the passing game.
+
+### Upon Review, the Eagles' coverage stands out
+
+{{< tweet user=Nate_Tice id=1889004031819088220 >}}
+
+The Eagles are in man coverage, and all four cornerbacks do an excellent job of staying on with the receivers. Isiah Rodgers especially did a tremendous job of staying on Hollywood Brown despite the switch release and took away Mahomes' first read. But just when Mahomes looks for a throw elsewhere, he gets pressured. The Eagles' front lined up a certain way to get one of their DTs a one-on-one matchup. The edge defenders use bull rushes, trying to win through the blocker, and compress the pocket. Both DTs fight through a lot of contact, and the rest of the line relentlessly rushes Mahomes until the play is over. Gardner-Johnson comes downfield to break up the pass.
+
+{{< tweet user=Nate_Tice id=1889021499035775009 >}}
+
+The Chiefs call a shot play but Quinyon Mitchell ran with Xavier Worthy step-for-step. Mahomes checks it down to Smith-Schuster, and the Eagles DBs rally to make the tackle. Two plays later, the Chiefs punt.
+
+{{< video 2960_sb59.mp4 >}}
+
+Mahomes is reading the right side, but there is no one he can throw the ball to. And because of the pressure, he has to let go of the ball but falls incomplete. 
+
+On the pick-six, Quinyon Mitchell runs with Deandre Hopkins ready to break the pass up at the catch point. On what looks like either a designed rollout or rollout to the right to have extra time, LB Zack Baun covers the flat, and DeJean falls back to the left while reading Mahomes. As soon as the ball is released, DeJean runs to the other side, intercepts the pass, and sprints into the end zone. 
+
+{{< tweet user=Nate_Tice id=1889052693416870055 >}}
+
+### But *pressure* defined the game
+
+But the main story on the defensive side of the ball is the Eagles' pass rush. In the first half, the Eagles pressured Mahomes on **47.1%** of his dropbacks per NGS without blitzing. Mahomes under-pressure completed just three passes out of nine attempts and was **sacked six times**. With Joe Thuney playing out of position at left tackle and Mike Caliendo replacing Thuney at left guard, the Eagles took full advantage of the Chiefs' weaknesses on the offensive line. The Eagles' pass rush wanted to compress the pocket to affect every throw and stay relentless to keep Mahomes from extending the play too long. The result? Six different players on the Eagles ended the day with multiple QB pressures. Josh Sweat alone had six pressures and 2.5 sacks.
+
+{{< video 1886_sb59.mp4 >}}
+{{< video 704_sb59.mp4 >}}
+
+On the first play, Josh Sweat pushes Joe Thuney into Mahomes, which affects the throw and leads to an interception. On the play after, the Eagles edge players compress the pocket, forcing Mahomes to climb the pocket, but Smith forces an errant throw. There are also examples of Mahomes running into pressure.
+
+{{< video 1577_sb59.mp4 >}}
+{{< video 2253_sb59.mp4 >}}
+
+In the first clip, the Eagles are in a front with two 2Is and run a stunt to the backside. But instead of staying in the pocket, Mahomes runs into pressure and gets sacked by Williams. On a 3rd and 9 with over five minutes left in the first half and down seventeen, the Chiefs were trying to put some points on the board and keep their comeback chances alive. Instead, they had to punt. A similar thing happens on the next play, where Mahomes runs into another sack. 
+
+{{< video 3395_sb59.mp4 >}}
+
+The Eagles' defensive tackles win their matchups again. Milton Williams overpowers Trey Smith, and help from Creed Humphrey arrives too late. And Williams ends up forcing the fumble. 
+
+The entire defensive line for the Eagles, down to the team's third-round rookie in Jalyx Hunnt, played their best football against the defending champs. They came into this game with the right mentality and played with a level of physicality needed to win this game. 
+
+## Eagles' success on offense
+
+Coming into this game, my biggest question for the Eagles' offense was how will they find answers against the Chiefs' blitz packages. Chiefs were **5th in blitz %, 7th in pressure % when blitzed, and 7th (best) in EPA per pass** when blitzed per NGS. But the Eagles had answers. The pass protection gave Hurts clean pockets to beat the blitz, and with extra time, Hurts made decisive throws to move the chains. 
+
+On a side note, I know that Saquon Barkley had a *16%* rushing success rate in the Super Bowl (NGS), but that is not the entire story of his impact. And honestly, I do not care what his production on the ground was because the Chiefs did everything they could to stop the run. Most defensive coordinators would have done the same to put the onus of winning on the QB and an offensive line. And you live with the result if the QB still manages to win. The clips below show that Barkley's gravity and pass-pro ability were a key reason behind the Eagles' passing success. So, re-watch the clips and appreciate what makes Saquon Barkley awesome. Positional value matters, but star value is a force multiplier regardless of position.
+
+### Confidence oozed out of the Eagles' passing attack
+
+{{< video 176_sb59.mp4 >}}
+
+The early go ball to A.J. Brown was called back for offensive pass interference, but that doesn't negate it as a great example of excellent pass pro and Hurts' post-snap operation. The Chiefs bring five rushers, but all five offensive linemen block their man, and Barkley becomes an auxiliary option underneath. But Hurts had already decided to throw to A.J. Brown one-on-one versus CB Trent McDuffie with no safety help over the top. Even though McDuffie is a stud, A.J. Brown had the size advantage over most CBs. And that was enough for the Eagles to run to a different version of the same play on the next drive. 
+
+{{< video 543_sb59.mp4 >}}
+
+This time, it ends up being a 27-yard completion to Jahan Dotson. This time, Spags calls a fire zone where the DE (Omenihu) to the left drops into coverage while the LB (Bolton) and DB (Conner) rush the passer from the right. The Chiefs bring five, but Barkley blocks the blitzing DB and gives Hurts time to get this throw off (also, watch how the LG Dickerson identifies that he's got no one to block and helps out the C Jurgens). WR Jahan Dotson wins his one-on-one, and Hurts delivered another great throw that sets up the touchdown. Even the sideline ref loves it!!
+
+{{< video 1252_sb59.mp4 >}}
+
+Another example of Hurts' decisiveness and connection with Brown occurred in the second quarter. Right before the snap, you can see Hurts signaling to Brown that he'll get the ball as Brown is one one-on-one again versus Trent McDuffie with no help over the top. I thought Hurts did a great job of picking this matchup and throwing a pretty back shoulder exactly where it needs to be for completion on a 3rd and 7. These plays highlight the confidence the Eagles' offense had in their answers against an aggressive Steve Spagnuolo-coached defense.
+
+
+
+{{< video 2387_sb59.mp4 >}}
+
+The next play is a Hurts' 16-yard third-down scramble. One key thing that makes this scramble work is Saquon Barkley. This is an example of *Green Dog* where Nick Bolton is supposed to cover Barkley but becomes an additional blitzer if Barkley stays in protection. And because Barkley decides to run out of the backfield, Hurts has the space to pick the first down. 
+
+{{< video 411_sb59.mp4 >}}
+
+### Offensive line
+
+I want to highlight the offensive line execution on the 20-yard completion to Dallas Goedert. The Chiefs run a sim pressure with DE (Omenihu) to the left dropping into coverage and LB (Tranquill) rushing the QB from the right. In a split second, LG Dickerson passes off the DT (Wharton) to the LT, scans the field to ensure no defender is rushing from the playside, and works backside to pick up LB (Tranquill). And not a single offensive lineman loses their block, giving Hurts plenty of time to find Goedert for an explosive play against blown coverage. 
+
+{{< video 2858_sb59.mp4 >}}
+
+On the DeVonta Smith touchdown, all three Chiefs' LBs bite on the play fake because they see a pulling guard and think Barkley is getting the ball. The deep left side covers a wide-open TE (Goedert) but inadvertently leaves the outside CB on one against Smith. Hurts strikes with a perfect throw.
+
+{{< video 804_sb59.mp4 >}}
+
+Nice stunt pickup by the LT (Mailata) and LG (Dickerson). 
+
+The plays above are really about the entire execution of the offense. From the offensive line's ability to sort things pre-snap to the post-snap execution by the blockers, Barkley's gravity, the WRs, and Hurts. When you can be decisive in this league and your talented players are confident in the answers the play-caller dials up, you inevitably are aggressively attacking the defense. Even though their run game wasn't productive and Hurts threw an interception early, the Eagles still managed to put the onus on the Chiefs to make plays who did not execute, culminating in a blowout.  
+
+
+
+
+
+
+
